@@ -3,8 +3,16 @@ function Vector3(x, y, z) constructor {
     self.y = y;
     self.z = z;
     
+    static Add = function(val) {
+        return new Vector3(self.x + val.x, self.y + val.y, self.z + val.z);
+    };
+    
     static Sub = function(val) {
         return new Vector3(self.x - val.x, self.y - val.y, self.z - val.z);
+    };
+    
+    static Dot = function(val) {
+        return dot_product_3d(self.x, self.y, self.z, val.x, val.y, val.z);
     };
     
     static Cross = function(val) {

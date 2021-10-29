@@ -3,6 +3,7 @@
     {"id":{"name":"scr_draw_all_the_stuff","path":"scripts/scr_draw_all_the_stuff/scr_draw_all_the_stuff.yy",},"order":3,},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":4,},
     {"id":{"name":"Vector3","path":"scripts/Vector3/Vector3.yy",},"order":10,},
+    {"id":{"name":"scr_calculate_smooth_normals","path":"scripts/scr_calculate_smooth_normals/scr_calculate_smooth_normals.yy",},"order":11,},
     {"id":{"name":"vertex_add_point","path":"scripts/vertex_add_point/vertex_add_point.yy",},"order":0,},
     {"id":{"name":"load_model","path":"scripts/load_model/load_model.yy",},"order":1,},
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":2,},
