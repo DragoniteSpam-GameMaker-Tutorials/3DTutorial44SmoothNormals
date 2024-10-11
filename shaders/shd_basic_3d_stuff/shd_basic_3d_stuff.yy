@@ -1,11 +1,12 @@
 {
-  "type": 1,
-  "parent": {
-    "name": "3DTutorial44SmoothNormals",
-    "path": "3DTutorial44SmoothNormals.yyp",
+  "$GMShader":"",
+  "%Name":"shd_basic_3d_stuff",
+  "name":"shd_basic_3d_stuff",
+  "parent":{
+    "name":"3DTutorial44SmoothNormals",
+    "path":"3DTutorial44SmoothNormals.yyp",
   },
-  "resourceVersion": "1.0",
-  "name": "shd_basic_3d_stuff",
-  "tags": [],
-  "resourceType": "GMShader",
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
 }

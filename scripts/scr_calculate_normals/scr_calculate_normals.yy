@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "3DTutorial44SmoothNormals",
-    "path": "3DTutorial44SmoothNormals.yyp",
+  "$GMScript":"v1",
+  "%Name":"scr_calculate_normals",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_calculate_normals",
+  "parent":{
+    "name":"3DTutorial44SmoothNormals",
+    "path":"3DTutorial44SmoothNormals.yyp",
   },
-  "resourceVersion": "1.0",
-  "name": "scr_calculate_normals",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
